@@ -2,3 +2,13 @@
 
 # pissedoffgamer.com
 The website source of pissedoffgamer.com
+
+## Theme Documentation
+
+The site uses the Codex minimalist theme.
+- [Docs](https://themes.gohugo.io/hugo-theme-codex/)
+
+## Hugo
+
+The site is built by the Hugo static site generator
+- [Docs](https://gohugo.io/documentation/)
