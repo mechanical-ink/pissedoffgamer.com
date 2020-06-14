@@ -1,0 +1,4 @@
+baseURL = "https://www.pissedofgamer.com"
+languageCode = "en-us"
+title = "The Pissed of Gamer"
+theme = "codex"
