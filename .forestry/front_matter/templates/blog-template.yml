@@ -23,3 +23,4 @@ fields:
 - type: text
   name: stylesheet
   label: stylesheet
+  default: post.css
