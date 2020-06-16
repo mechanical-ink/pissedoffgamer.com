@@ -1,22 +1,23 @@
 ---
-title: "Sample Post"
-date: "2020-06-14"
-slug: "sample-post"
-description: "This is a sample post"
-keywords: ["gaming", "something"]
-draft: false
-tags: ["tag", "tag2", "tag3"]
-stylesheet: "post.css"
+title: Sample Post
+date: 2020-06-14
+slug: sample-post
+description: This is a sample post
+keywords:
+- gaming
+- something
+tags:
+- tag
+- tag2
+- tag3
+stylesheet: post.css
+draft: true
+
 ---
+## God of War 2018 Review
 
-## Heading
+After playing the new installment in the God of War franchise, around 2 years late mind you, i couldn't help finding myself moderately disappointed in this franchises new direction. I'm sure i'm not the only metaphorically graying fan of the God of War of old, that has come to expect a significant amount of brutality, destruction and distractions of the feminine variety that offer a bit more than the exchange of words during conversation, Now i won't be so petty as to say that the lack of the infamous mandatory sex mini-game was the final nail in the coffin, however that cup of sugar would have helped the medicine that is this games story, as well as its attempts at being emotional go down far smoother.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras odio turpis, scelerisque sed odio non, pharetra auctor justo. Quisque sed felis hendrerit, tempor quam eu, commodo leo. Curabitur vel risus non est lobortis volutpat. Phasellus vel efficitur risus. Duis auctor, magna at interdum finibus, ipsum libero fringilla velit, eu auctor nibh tortor ut elit. Nullam tristique in nisl eget mattis. Ut convallis semper augue, ut mattis odio egestas quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed metus blandit, consequat justo vel, scelerisque est. Sed ultricies tempus dapibus. Aenean tempus dolor in imperdiet varius. Duis laoreet erat sed nibh tincidunt posuere.
+\-A look into the past games-
 
-Pellentesque justo orci, auctor non neque sed, pellentesque finibus elit. Nunc eu ipsum et justo vulputate ultricies. Aliquam gravida lacus ac massa maximus pharetra. Aliquam et sodales ligula, vel auctor nibh. Nullam aliquam, dolor non aliquet consequat, mauris felis tempor dui, vel posuere libero justo scelerisque sem. Mauris efficitur eget ante ac efficitur. In ante nunc, blandit sollicitudin metus nec, accumsan vehicula tortor. Donec facilisis lobortis sollicitudin. Nullam consectetur felis urna, ut luctus magna dignissim vel. Pellentesque ligula libero, vulputate id volutpat in, semper dignissim ligula. Phasellus non ullamcorper mauris, vel blandit tellus.
-
-Pellentesque volutpat lacinia sapien ut sagittis. Cras faucibus id arcu dignissim luctus. In suscipit nibh purus, maximus ullamcorper ante commodo et. Maecenas eget lorem purus. Curabitur non erat vitae quam accumsan venenatis eget eu sapien. Aenean at euismod mauris. In non elementum leo. Nulla ut libero sed diam finibus auctor non ac nisl. Donec sodales est nec ullamcorper molestie. Aliquam mi justo, condimentum sit amet posuere vitae, blandit quis odio. Morbi dapibus congue tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam ut iaculis ligula. Sed mattis dictum lectus.
-
-Morbi convallis erat ut hendrerit pulvinar. Nulla id ante ut dolor aliquam lacinia. In hac habitasse platea dictumst. Curabitur sagittis mauris in felis ornare, id fringilla nibh lacinia. In sagittis tempor turpis ac lacinia. Praesent lobortis egestas purus, tristique tempor nibh ultricies id. Cras euismod, metus eu viverra pretium, tortor risus ultrices lorem, sed euismod quam leo in sapien. Pellentesque ut diam odio.
-
-Nunc vel lectus nisl. Quisque ullamcorper auctor bibendum. Fusce eget odio dui. Sed elit risus, tristique quis blandit a, tempor id lorem. Nam diam dui, tristique a felis non, pulvinar volutpat magna. Pellentesque tristique commodo sodales. Nullam iaculis convallis velit in malesuada. Mauris gravida feugiat nibh a pulvinar. Vestibulum sit amet pulvinar nulla, ultricies facilisis diam. Fusce auctor elit et mauris finibus scelerisque. 
+Speaking of depth in story, Journalists seem to believe that the series of old was just a cliche revenge story, Kratos was a bloodthirsty animal without personality and due to that this new installment saved the series. as much as i half-agree with the cliche revenge story argument, the notion that Kratos was nothing but a heartless murder machine and the claim that the newest installment saved the series is complete harpy shit. I urge you to play Chains of Olympus, Ghost of Sparta and Ascension, then make the statement that Kratos is just a bloodthirsty maniac without heart nor soul with a straight face as you recall Kratos reuniting with his daughter in Elysium, the clear confliction in his face when offered the illusion of having his family back as long as he remains a servant of Ares, the classic line "by the gods, what have i become". The more you play these games, the more you feel Kratos' brutality against the gods become justified, you start to see the Kratos in God of War 3 less as the man who kills gods because he can and it's fun, but the man who kills gods because they left him no choice. 
