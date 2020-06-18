@@ -1,7 +1,7 @@
 ---
 title: 'God of War Rant and Review  '
 date: 2020-06-14
-slug: sample-post
+slug: God of War Rant and Review
 description: Not for me anymore
 keywords:
 - god of war game
