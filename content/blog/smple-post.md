@@ -8,7 +8,6 @@ keywords:
 - gaming
 tags: []
 stylesheet: post.css
-draft: true
 
 ---
 ## A Good Game, Not My God of War Game
