@@ -1,5 +1,6 @@
 ---
-heading: "Hi, I am The Pissed of Gamer 👺"
-subheading: "I ramble, I curse, sometimes I like things. This is my brain dump. Tread carefully 😜"
-handle: "tremaineneethling"
+heading: "Hi, I am The Pissed of Gamer \U0001F47A"
+subheading: I ramble, I curse, sometimes I like things.
+handle: tremaineneethling
+
 ---
