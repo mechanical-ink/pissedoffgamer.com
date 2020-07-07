@@ -24,3 +24,5 @@ fields:
   name: stylesheet
   label: stylesheet
   default: post.css
+pages:
+- content/blog/the-last-of-us-part-2-spoiler-review-and-rant.md
