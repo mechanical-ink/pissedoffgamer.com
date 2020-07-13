@@ -20,7 +20,7 @@ The games story is a generic "revenge is bad" story with lots of gimmicks to mak
 
 Sam:"What are you scared of?"
 
-Ellie:"uhh, let's see. Spiders are pretty creepy."
+Ellie:"uhh, let's see. Scorpions are pretty creepy."
 
 Sam:"..."
 
